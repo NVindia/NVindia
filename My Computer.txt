@@ -1,0 +1,3 @@
+OS - Windows 10 (Coming soon Windows 11)
+Virtual Machine OS - macOS Ventura 13.3
+Graphics Card - Geforce GTX 1660 Ti (Coming soon Geforce RTX 3070 Ti)
